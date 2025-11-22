@@ -1,0 +1,240 @@
+{
+  "editor.bracketPairColorization.enabled": false,
+  "editor.accessibilitySupport": "off",
+  "editor.linkedEditing": true,
+  "editor.smoothScrolling": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.renderWhitespace": "none",
+  "editor.scrollBeyondLastLine": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.padding.top": 16,
+  "editor.stickyScroll.enabled": false,
+  "editor.cursorStyle": "block",
+  "editor.cursorWidth": 3,
+  "editor.fontSize": 12,
+  "editor.wordWrapColumn": 120,
+  "editor.wordWrap": "off",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "editor.renderControlCharacters": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "editor.suggestFontSize": 12,
+  "editor.formatOnSave": false,
+  "files.trimTrailingWhitespace": false,
+  "files.insertFinalNewline": false,
+  "files.trimFinalNewlines": false,
+  "terminal.integrated.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.scrollback": 500,
+  "terminal.integrated.lineHeight": 1.5,
+  "window.title": "${rootName}",
+  "window.newWindowDimensions": "inherit",
+  "window.nativeFullScreen": true,
+  "workbench.activityBar.location": "bottom",
+  "workbench.iconTheme": "glyph.legacy",
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.sideBar.location": "right",
+  "workbench.tree.indent": 15,
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground1": "#96ffae",
+    "editorIndentGuide.background1": "#FFFFFF01",
+    "editorLineNumber.activeForeground": "#FFFFFF",
+    "terminal.background": "#00000000"
+  },
+  "search.useIgnoreFiles": false,
+  "search.exclude": {
+    "**/vendor/{[^l],?[^ai]}*": true,
+    "**/public/{[^i],?[^n]}*": true,
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/_ide_helper.php": true,
+    "**/composer.lock": true,
+    "**/package-lock.json": true,
+    "storage": true,
+    ".phpunit.result.cache": true
+  },
+  "editor.foldingStrategy": "auto",
+  "editor.snippetSuggestions": "top",
+  "editor.detectIndentation": false,
+  "editor.matchBrackets": "never",
+  "editor.colorDecorators": false,
+  "editor.selectionHighlight": false,
+  "editor.overviewRulerBorder": false,
+  "editor.occurrencesHighlight": "off",
+  "problems.decorations.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "github.copilot.chat.terminalChatLocation": "terminal",
+  "apc.activityBar": {
+    "hideSettings": true,
+    "size": 42
+  },
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "frame": false,
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom"
+  },
+  "editor.defaultFormatter": "vscode.typescript-language-features",
+  "update.mode": "default",
+  "explorer.confirmDelete": false,
+  "explorer.confirmPasteNative": false,
+  "explorer.sortOrder": "type",
+  "emmet.includeLanguages": {
+    "blade": "html",
+    "vue-html": "html",
+    "vue": "html",
+    "react": "html",
+    "javascript": "html"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "octref.vetur"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features",
+  },
+  "extensions.ignoreRecommendations": true,
+  "editor.largeFileOptimizations": true,
+  "files.hotExit": "onExit",
+  "workbench.editor.limit.value": 10,
+  "workbench.editor.limit.perEditorGroup": true,
+  "search.quickOpen.includeSymbols": false,
+  "search.followSymlinks": false,
+  "telemetry.telemetryLevel": "off",
+  "workbench.list.smoothScrolling": false,
+  "editor.showFoldingControls": "always",
+  "diffEditor.maxComputationTime": 0,
+  "editor.lineHeight": 1.818,
+  // "editor.fontFamily": "mononoki,  Fira Code, IBM Plex Mono, JetBrains Mono, monospace",
+  "terminal.external.osxExec": "Warp.app",
+  "workbench.settings.applyToAllProfiles": [
+    "workbench.colorCustomizations"
+  ],
+  "background.windowBackgrounds": [
+    // "wallpaper/jezael-melgoza-CudNrzbsyZw-unsplash.jpg"
+  ],
+  "background.autoInstall": false,
+  "window.titleBarStyle": "custom",
+  "window.commandCenter": false,
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "none",
+  "editor.cursorBlinking": "solid",
+  "editor.fontLigatures": true,
+  "terminal.integrated.env.osx": {
+    "PATH": "/usr/bin:/usr/local/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin",
+    "FIG_NEW_SESSION": "1"
+  },
+  "console-ninja.featureSet": "Community",
+  "git.enableSmartCommit": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[shellscript]": {
+    "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "chat.agent.maxRequests": 100,
+  "eslint.enable": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue"
+  ],
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "vue.inlayHints.missingProps": true,
+  "workbench.colorTheme": "Moonlight Italic",
+  "background.smoothImageRendering": true,
+  "debug.onTaskErrors": "debugAnyway",
+  "gitlens.graph.minimap.enabled": false,
+  "gitlens.graph.layout": "editor",
+  "[sql]": {
+    "editor.defaultFormatter": "piotrgredowski.poor-mans-t-sql-formatter-pg"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "debug.inlineValues": false,
+  "git.openRepositoryInParentFolders": "never",
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/var/folders/bc/62smwxn14p5gvt29tvf987r80000gq/T/postman-collections-post-response.instructions.md": true,
+    "/var/folders/bc/62smwxn14p5gvt29tvf987r80000gq/T/postman-collections-pre-request.instructions.md": true,
+    "/var/folders/bc/62smwxn14p5gvt29tvf987r80000gq/T/postman-folder-post-response.instructions.md": true,
+    "/var/folders/bc/62smwxn14p5gvt29tvf987r80000gq/T/postman-folder-pre-request.instructions.md": true,
+    "/var/folders/bc/62smwxn14p5gvt29tvf987r80000gq/T/postman-http-request-post-response.instructions.md": true,
+    "/var/folders/bc/62smwxn14p5gvt29tvf987r80000gq/T/postman-http-request-pre-request.instructions.md": true
+  },
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "background.useInvertedOpacity": true,
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "chat.tools.terminal.autoApprove": {
+    "corepack": true,
+    "pnpm": true,
+    "uname -m": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "dotnet --info": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "bash /tmp/dotnet-install.sh --channel 8.0": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "export": true,
+    "npm run -s typecheck": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "npm install": true,
+    "npm run typecheck": true,
+    "npm run build": true,
+    "npx": true
+  },
+  "i18n-ally.includeSubfolders": false,
+  "git.autofetch": true,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
